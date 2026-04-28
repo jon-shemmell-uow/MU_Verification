@@ -1,0 +1,15 @@
+# Virtual environment folder
+mu_env/
+
+# Python byte-compiled files
+__pycache__/
+
+# Research data (Large .mat files should be shared via external servers)
+*.mat
+
+# macOS system files
+*.DS_Store
+
+# IDE configuration folders
+.vscode/
+.idea/

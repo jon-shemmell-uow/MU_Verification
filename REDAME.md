@@ -1,5 +1,5 @@
 
-# MU Gold Standard Pipeline
+# MU Verification
 
 This repository contains the MU Gold Standard Pipeline, a specialized application for analyzing EMG and Torque data, performing spike timing analysis, and auditing motor unit (MU) data.
 

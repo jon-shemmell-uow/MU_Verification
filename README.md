@@ -13,8 +13,8 @@ This repository contains the MU Gold Standard Pipeline, a specialized applicatio
 
 1. **Clone the repository**:
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-name>
+    git clone https://github.com/jon-shemmell-uow/MU_Verification/tree/main
+    cd MU_Verification
     ```
 
 2. **Install dependencies**:
@@ -40,4 +40,4 @@ Contributions are welcome. Please create a feature branch and submit a pull requ
 
 ## License
 
-[Add your license information here]
+This project is licensed under the GNU GPL License - see the [LICENSE](LICENSE) file for details.
